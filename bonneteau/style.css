@@ -1,0 +1,13 @@
+body{
+   background-color: #483D8B;
+   text-align: center;
+   color: blanchedalmond;
+
+}
+
+.card-img-top{
+   width: 150px;
+   display: flex;
+   position: absolute;
+   backface-visibility: hidden;
+}
